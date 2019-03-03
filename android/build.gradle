@@ -33,7 +33,7 @@ android {
     }
 
     dependencies {
-        api 'com.android.support:support-v4:27.0.0'
+       force 'com.android.support:support-v4:27.1.0'
         api 'androidx.annotation:annotation:1.0.0'
         api 'com.google.firebase:firebase-ml-vision:19.0.2'
         api 'com.google.firebase:firebase-core:16.0.7'
